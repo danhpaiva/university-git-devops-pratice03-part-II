@@ -3,7 +3,7 @@
 <a href="https://github.com/danhpaiva/university-git-devops-pratice03-part-II" target="_blank">Practice 03 - Part II</a>
 </h3>
 
-![Pipeline](https://github.com/danhpaiva/university-git-devops-pratice03-part-II/actions/workflows/main.yml/badge.svg)
+![Pipeline](https://github.com/danhpaiva/university-git-devops-pratice03-part-II/actions/workflows/tests.yml/badge.svg)
 
 <p align="center">
  <a href="#status">Status</a> • 
