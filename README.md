@@ -3,6 +3,8 @@
 <a href="https://github.com/danhpaiva/university-git-devops-pratice03-part-II" target="_blank">Practice 03 - Part II</a>
 </h3>
 
+![Pipeline](https://github.com/danhpaiva/university-git-devops-pratice03-part-II/workflows/Pipeline/badge.svg)
+
 <p align="center">
  <a href="#status">Status</a> • 
  <a href="#objective">Objective</a> •
