@@ -31,6 +31,7 @@
 The following tools were used in the construction of the project:
 
 - GIT: <a href="https://git-scm.com/">download</a>
+- Docs: <a href="https://nodejs.org/en/docs/guides/getting-started-guide/">How do I start with Node.js</a> | <a href="https://lucasmarques.dev/criando-um-pipeline-com-github-action/">Criando um pipeline com Github Actions</a>
 
 <h2 id=author>:grin: Author</h2>
 
